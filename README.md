@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nomisnibor
-- 👀 I’m interested in VR Desidn
+- 👀 I’m interested in architecture, parametric design digital art and VR Design
 - 🌱 I’m currently learning Unreal 5
 - 💞️ I’m looking to collaborate on any architectural VR project
 - 📫 How to reach me Unreal,  AR, XR and VR
